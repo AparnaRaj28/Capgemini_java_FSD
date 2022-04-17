@@ -1,0 +1,10 @@
+Spring Assignment #2
+
+1.	Create an Spring MVC project for an online e-learning portal which will list out all the courses it is offering along with fees, duration and start date
+2.	User needs to be authenticated first before they can see the course details.
+
+	Create a registration form that will generate user profile in the system.
+	Once registration is done, user can login with their credentials.
+	On successful login user can see all the course details.
+
+
